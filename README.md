@@ -70,7 +70,7 @@
 <h2><span>🔗</span> Links</h2>
 <ul>
   <li>🌐 <strong><a href="https://app.powerbi.com/links/LaO3sS2_9J?ctid=c5231bba-1f6f-456d-bf83-99aae6472411&pbi_source=linkShare">Live Dashboard Preview</a></strong></li>
-  <li>📂 <strong>Linkedin Post:</strong> <a href="https://github.com/AdittoAhosanKabbo">github.com/AdittoAhosanKabbo</a></li>
+  <li>📂 <strong>Linkedin Post:</strong> <a href="https://www.linkedin.com/posts/adittoahosankabbo_hranalytics-powerbi-datavisualization-activity-7334990081918676993-oG9q?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYmlAcBDC-p4HWCs6yFwh5eDLA4vA0uquE">View in Linkedin</a></li>
 </ul>
 
 <h2><span>🧩</span> Behind the Dashboard</h2>
