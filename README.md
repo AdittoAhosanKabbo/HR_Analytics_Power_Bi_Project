@@ -6,6 +6,17 @@
 
 <hr>
 
+
+## 📊 Interactive Power BI Dashboard
+
+[![Power BI](https://img.shields.io/badge/Power_BI-View_Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNWMzNTI1OTMtYWFjNy00YzE4LTg4ZDgtNjRhNGY2NDJjNTQxIiwidCI6IjYwMTQzNDU2LTYxYjYtNGZkYy04Y2Q1LTFiNWQwNzA5NTA5NiIsImMiOjEwfQ%3D%3D&pageName=0f30f9a45c28fa0912c6)
+
+[**→  Click here to view the Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNWMzNTI1OTMtYWFjNy00YzE4LTg4ZDgtNjRhNGY2NDJjNTQxIiwidCI6IjYwMTQzNDU2LTYxYjYtNGZkYy04Y2Q1LTFiNWQwNzA5NTA5NiIsImMiOjEwfQ%3D%3D&pageName=0f30f9a45c28fa0912c6)
+
+
+
+<hr>
+
 <h2><span>📸</span> Dashboard Preview</h2>
 <p>Explore the four pages of the Power BI dashboard:</p>
 
